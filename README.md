@@ -2,7 +2,7 @@
 
 Data from: https://fakestoreapi.com/products
 
-From tutorial: https://piped.hostux.net/watch?v=ABQLwlE8MUA
+From tutorial, Chapter 30: https://piped.hostux.net/watch?v=ABQLwlE8MUA
 
 From https://fakestoreapi.com/docs we used:
 
