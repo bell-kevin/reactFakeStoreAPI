@@ -1,4 +1,18 @@
-# 
+# Fake Store API
+
+Data from: https://fakestoreapi.com/products
+
+From tutorial: https://piped.hostux.net/watch?v=ABQLwlE8MUA
+
+From https://fakestoreapi.com/docs we used:
+
+fetch('https://fakestoreapi.com/products')
+            .then(res=>res.json())
+            .then(json=>console.log(json))
+            
+![p](https://github.com/bell-kevin/searchBarReactJS/blob/main/loading.PNG)
+
+![p](https://github.com/bell-kevin/reactFakeStoreAPI/blob/main/fakeStore.PNG)
 
 
 == We're Using GitHub Under Protest ==
