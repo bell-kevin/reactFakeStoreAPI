@@ -14,6 +14,8 @@ fetch('https://fakestoreapi.com/products')
 
 ![p](https://github.com/bell-kevin/reactFakeStoreAPI/blob/main/fakeStore.PNG)
 
+![p](https://github.com/bell-kevin/reactFakeStoreAPI/blob/main/jacket.PNG)
+
 
 == We're Using GitHub Under Protest ==
 
